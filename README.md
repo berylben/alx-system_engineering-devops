@@ -1,1 +1,3 @@
-My seconf readme
+#!/bin/bash
+My second readme
+
