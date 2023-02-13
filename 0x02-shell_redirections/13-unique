@@ -1,0 +1,2 @@
+#!/bin/bash
+uniq -u 0x02-shell_redirections
