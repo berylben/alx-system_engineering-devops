@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -t 10 0x02-shell_redirections
